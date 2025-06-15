@@ -169,7 +169,7 @@ h1.intro, #typed-hero {
   height: auto;
   object-fit: cover;
   border-radius: 12px;
-  box-shadow: 0 0 10px #0abab5;
+  box-shadow: 0 0 10px #FFA500;
   transition: transform 0.3s ease;
   cursor: pointer;
 }
